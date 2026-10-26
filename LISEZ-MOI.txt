@@ -1,0 +1,10 @@
+Version de test de Pokémon HeartGold pour Avelune Player.
+
+Contenu exporté : 19 cartes, début du jeu jusqu'à l'Œuf Mystère et retour chez Orme selon les reçus du carnet. Cette livraison inclut les lampadaires, lucioles et fenêtres nocturnes, les bâtiments sans ombres dessinées du lot précédent, ainsi que le raccord musical retravaillé de Ville Griotte.
+
+Le paquet reste un prototype incomplet. L'installation et le parcours de cette livraison sur iPhone ne sont pas certifiés. Un Avelune Player récent prenant en charge les cinématiques entre cartes connectées est requis.
+
+Le carnet public détaille les contrôles, les limites et les musiques :
+https://carnet-heartgold-avelune.assays-apogee0m.chatgpt.site
+
+Ce dépôt ne contient ni le projet source, ni une ROM brute, ni des sauvegardes de joueur. Aucun code moteur n'est livré ici.
